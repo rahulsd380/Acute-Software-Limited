@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Project One",
+        "tags": ["Web Development", "JavaScript", "React"],
+        "image": "https://i.ibb.co/BBwq9SJ/project1.png",
+        "description": "This is the description of Project One.",
+        "liveLink": "https://example.com/project1"
+    },
+    {
+        "id": 2,
+        "title": "Project Two",
+        "tags": ["Mobile App", "iOS", "Swift"],
+        "image": "https://i.ibb.co/BBwq9SJ/project1.png",
+        "description": "This is the description of Project Two.",
+        "liveLink": "https://example.com/project2"
+    },
+    {
+        "id": 3,
+        "title": "Project Three",
+        "tags": ["Data Science", "Python", "Machine Learning"],
+        "image": "https://i.ibb.co/BBwq9SJ/project1.png",
+        "description": "This is the description of Project Three.",
+        "liveLink": "https://example.com/project3"
+    },
+    {
+        "id": 4,
+        "title": "Project Three",
+        "tags": ["Data Science", "Python", "Machine Learning"],
+        "image": "https://i.ibb.co/BBwq9SJ/project1.png",
+        "description": "This is the description of Project Three.",
+        "liveLink": "https://example.com/project3"
+    },
+    {
+        "id": 5,
+        "title": "Project Three",
+        "tags": ["Data Science", "Python", "Machine Learning"],
+        "image": "https://i.ibb.co/BBwq9SJ/project1.png",
+        "description": "This is the description of Project Three.",
+        "liveLink": "https://example.com/project3"
+    }
+]
